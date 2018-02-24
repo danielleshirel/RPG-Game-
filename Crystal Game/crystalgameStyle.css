@@ -1,0 +1,48 @@
+
+
+body {
+	background-color: grey;
+}
+
+h2 {
+	background-color: orange;
+	padding: 20px;
+	margin-right: 500px;
+	text-align: center;
+}
+
+
+div.col-sm {
+	background-color: white;
+}
+
+img {
+	float: left;
+}
+
+#Instructions {
+	background-color: 	#EEE8AA;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+#targetNumber {
+	background-color: #90EE90;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+#WinsLoses {
+	background-color: #87CEFA;
+	margin-bottom: 10px;
+}
+
+#totalscore {
+	background-color: #20B2AA;
+	margin-top: 10px;
+}
+
+#score {
+	background-color: #20B2AA;
+	padding-bottom: 40px;
+}
